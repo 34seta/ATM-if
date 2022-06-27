@@ -1,14 +1,14 @@
 # ATM-if
 public class Main {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        String password = "java123";
-        String userName = "patika";
-        int right = 3;
-        int select ;
-        int balance=1500;
-        int yatirilacakTutar;
-        int cekilecekTutatr;
+    public static void main(String[] args) {  
+        Scanner input = new Scanner(System.in);  
+        String password = "java123";  
+        String userName = "patika";  
+        int right = 3;  
+        int select ;  
+        int balance=1500;  
+        int yatirilacakTutar;  
+        int cekilecekTutatr;  
 
 
         while (right > 0) {
